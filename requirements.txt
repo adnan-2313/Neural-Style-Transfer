@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+tensorflow
+tensorflow_hub
+altair
